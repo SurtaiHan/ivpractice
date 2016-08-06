@@ -7,7 +7,7 @@
 
 using namespace std;
 
-namespace Skyline {
+namespace PalindromePartitioningII {
 	static int minCuts(string str) {
 
 		// observe that there must be a "last" palindrome segment
